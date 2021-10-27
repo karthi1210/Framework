@@ -34,6 +34,7 @@ public class BrowserLaunch extends BaseClass{
 		btnClick(fbLogin.getBtn());
 		Thread.sleep(5000);
 		browserClose();
+		System.out.println("karthik");
 		
 		
 	
