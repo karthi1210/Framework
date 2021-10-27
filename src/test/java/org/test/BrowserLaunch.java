@@ -35,6 +35,7 @@ public class BrowserLaunch extends BaseClass{
 		Thread.sleep(5000);
 		browserClose();
 		System.out.println("karthik");
+		System.out.println("sofia");
 		
 		
 	
