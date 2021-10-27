@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20636" started-at="2021-10-27T09:34:26Z" finished-at="2021-10-27T09:34:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20636" started-at="2021-10-27T09:34:26Z" finished-at="2021-10-27T09:34:47Z">
+      <class name="org.test.DataProviderTestNG">
+        <test-method status="PASS" signature="testCase1(java.lang.String, java.lang.String)[pri:0, instance:org.test.DataProviderTestNG@47c62251]" name="testCase1" duration-ms="6602" started-at="2021-10-27T09:34:26Z" data-provider="FBLogin" finished-at="2021-10-27T09:34:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[java]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[java@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="testCase1(java.lang.String, java.lang.String)[pri:0, instance:org.test.DataProviderTestNG@47c62251]" name="testCase1" duration-ms="4035" started-at="2021-10-27T09:34:33Z" data-provider="FBLogin" finished-at="2021-10-27T09:34:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sql]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sql@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="testCase1(java.lang.String, java.lang.String)[pri:0, instance:org.test.DataProviderTestNG@47c62251]" name="testCase1" duration-ms="3007" started-at="2021-10-27T09:34:37Z" data-provider="FBLogin" finished-at="2021-10-27T09:34:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[oracle]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[oracle@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="testCase1(java.lang.String, java.lang.String)[pri:0, instance:org.test.DataProviderTestNG@47c62251]" name="testCase1" duration-ms="3151" started-at="2021-10-27T09:34:40Z" data-provider="FBLogin" finished-at="2021-10-27T09:34:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[selenium]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="testCase1(java.lang.String, java.lang.String)[pri:0, instance:org.test.DataProviderTestNG@47c62251]" name="testCase1" duration-ms="3784" started-at="2021-10-27T09:34:43Z" data-provider="FBLogin" finished-at="2021-10-27T09:34:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[python]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[python@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+      </class> <!-- org.test.DataProviderTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
